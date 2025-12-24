@@ -97,3 +97,8 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Exclude rider idea data
+.idea
+[Aa]ssets/Plugins/Editor/JetBrains*
+[Aa]ssets/Plugins/Editor.meta

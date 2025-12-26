@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Items
+  m_GUID: 0874f6ca235826e40b9aa1580953cddc
+  m_SerializeEntries:
+  - m_GUID: 0e7bba11daff4494788ba73ff23b703c
+    m_Address: Assets/_Content/Prefabs/Items/Marmalade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a5f2f9823223954d8e7e297d8db74ed
+    m_Address: Assets/_Content/Prefabs/Items/JumpRope.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d1b34a8668eecd4b9e38210e7c9746e
+    m_Address: Assets/_Content/Prefabs/Items/Skate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a6fb32c8eca11b4c9507794c4c75923
+    m_Address: Assets/_Content/Prefabs/Items/Note.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddd456ab1f915d14db01c345172e96c0
+    m_Address: Assets/_Content/Prefabs/Items/Camera.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed18f25e58b24a4a80116e79d88112b
+    m_Address: Assets/_Content/Prefabs/Items/Candle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: b91d0ba41db707f428a7c1da24399879, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ee5559ff3c4a52844b92e583ed8e9001, type: 2}
+    - {fileID: 11400000, guid: 55b274761624951448986b5974cf0aec, type: 2}
